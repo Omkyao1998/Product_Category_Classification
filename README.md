@@ -9,7 +9,6 @@ Top Category ID
 Bottom Category ID
 Color ID
 Dataset:
-Size: 245,485 rows, 21 columns.
 Cleaning: Removal of irrelevant and missing data, lemmatization, and removal of special characters, stopwords, and unnecessary whitespace.
 Vectorization: Textual data transformed using CountVectorizer for simplicity and word-order preservation.
 Models Evaluated:
